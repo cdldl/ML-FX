@@ -30,9 +30,6 @@ packages.name <- list.files(settings$PACKAGES_PATH )
 packages.path <- paste0(settings$PACKAGES_PATH,packages.name)
 #install.packages(packages.path, dependencies=T)
 
-# add caret
-library(mlr)
-library(extraTrees)
 # Load packages
 packages.name <- strsplit(packages.name,"_")
 packages.name <- c(do.call(rbind,packages.name)[,1])
