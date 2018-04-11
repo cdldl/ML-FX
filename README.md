@@ -20,7 +20,8 @@ Compute the total performance of the strategy.
 <p align="center">
    <h1> Cross-Currency Strategy Based on Historical Data  <h1>
 </p>
- Cyril de Lavergne
+      
+ Cyril de Lavergne cdldl@connect.ust.hk
 
 
 <h3>Abstract <h3>
